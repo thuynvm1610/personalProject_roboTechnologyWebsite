@@ -771,7 +771,7 @@
         padding-right: 0px;
     }
 
-    .header_shoppingCart::after {
+    /* .header_shoppingCart::after {
         content: "2";
         display: block;
         width: 50%;
@@ -785,7 +785,7 @@
         display: flex;
         justify-content: center;
         align-items: center;
-    }
+    } */
 
     .content__leftBanner {
         height: 300px;
